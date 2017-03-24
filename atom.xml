@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>litaoxyz</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://litaoxyz.com/"/>
+  <updated>2017-03-23T14:16:00.290Z</updated>
+  <id>http://litaoxyz.com/</id>
+  
+  <author>
+    <name>litaoxyz</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>first</title>
+    <link href="http://litaoxyz.com/2017/03/23/first/"/>
+    <id>http://litaoxyz.com/2017/03/23/first/</id>
+    <published>2017-03-23T14:15:32.000Z</published>
+    <updated>2017-03-23T14:16:00.290Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello,this is my blog.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Hello,this is my blog.&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
