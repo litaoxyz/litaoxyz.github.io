@@ -5,15 +5,35 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://litaoxyz.com/"/>
-  <updated>2017-03-23T14:16:00.290Z</updated>
+  <updated>2017-03-25T06:36:28.834Z</updated>
   <id>http://litaoxyz.com/</id>
   
   <author>
-    <name>litaoxyz</name>
+    <name>金木研</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://litaoxyz.com/2017/03/25/marathon/"/>
+    <id>http://litaoxyz.com/2017/03/25/marathon/</id>
+    <published>2017-03-25T06:36:28.827Z</published>
+    <updated>2017-03-25T06:36:28.834Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/sources/image/marathon.jpg" alt="Alt text" title="wuhan"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/sources/image/marathon.jpg&quot; alt=&quot;Alt text&quot; title=&quot;wuhan&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>first</title>
