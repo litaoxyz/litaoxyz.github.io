@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://litaoxyz.com/"/>
-  <updated>2017-03-25T06:36:28.834Z</updated>
+  <updated>2017-03-25T10:24:50.968Z</updated>
   <id>http://litaoxyz.com/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://litaoxyz.com/2017/03/25/marathon1/"/>
+    <id>http://litaoxyz.com/2017/03/25/marathon1/</id>
+    <published>2017-03-25T10:23:17.676Z</published>
+    <updated>2017-03-25T10:24:50.968Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="E:\hexo\source\img\marathon.jpg" alt="marathon" title="marathon"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;E:\hexo\source\img\marathon.jpg&quot; alt=&quot;marathon&quot; title=&quot;marathon&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title></title>
