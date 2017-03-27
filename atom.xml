@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://litaoxyz.com/"/>
-  <updated>2017-03-27T02:09:20.444Z</updated>
+  <updated>2017-03-27T05:32:36.792Z</updated>
   <id>http://litaoxyz.com/</id>
   
   <author>
@@ -14,6 +14,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Fit</title>
+    <link href="http://litaoxyz.com/2017/03/27/%E5%BD%93%E5%B9%B4%E5%81%A5%E8%BA%AB/"/>
+    <id>http://litaoxyz.com/2017/03/27/当年健身/</id>
+    <published>2017-03-27T05:32:00.000Z</published>
+    <updated>2017-03-27T05:32:36.792Z</updated>
+    
+    <content type="html"><![CDATA[<p>大二是的健身照，挺怀念的啊。<br><img src="http://upload-images.jianshu.io/upload_images/5200879-9807c573db109d0b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="健身"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;大二是的健身照，挺怀念的啊。&lt;br&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/5200879-9807c573db109d0b.jpg?imageMogr2/auto-orient/strip%7Cima
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Marathon</title>
@@ -53,25 +72,6 @@
     
       &lt;p&gt;Hello,this is my blog.&lt;/p&gt;
 
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>First</title>
-    <link href="http://litaoxyz.com/2017/03/23/%E5%BD%93%E5%B9%B4%E5%81%A5%E8%BA%AB/"/>
-    <id>http://litaoxyz.com/2017/03/23/当年健身/</id>
-    <published>2017-03-23T14:15:32.000Z</published>
-    <updated>2017-03-27T05:29:26.076Z</updated>
-    
-    <content type="html"><![CDATA[<p>大二是的健身照，挺怀念的啊。<br><img src="http://upload-images.jianshu.io/upload_images/5200879-9807c573db109d0b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="健身"></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;大二是的健身照，挺怀念的啊。&lt;br&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/5200879-9807c573db109d0b.jpg?imageMogr2/auto-orient/strip%7Cima
     
     </summary>
     
