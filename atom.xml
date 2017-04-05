@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://litaoxyz.com/"/>
-  <updated>2017-03-27T05:34:12.487Z</updated>
+  <updated>2017-04-05T05:27:02.788Z</updated>
   <id>http://litaoxyz.com/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>yerenbang</title>
+    <link href="http://litaoxyz.com/2017/04/05/yerenbang/"/>
+    <id>http://litaoxyz.com/2017/04/05/yerenbang/</id>
+    <published>2017-04-05T03:22:35.000Z</published>
+    <updated>2017-04-05T05:27:02.788Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://i.imgur.com/iTjQ33N.jpg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/iTjQ33N.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Fit</title>
