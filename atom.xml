@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://litaoxyz.com/"/>
-  <updated>2017-07-12T11:08:24.728Z</updated>
+  <updated>2017-07-12T15:27:03.577Z</updated>
   <id>http://litaoxyz.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://litaoxyz.com/2017/07/12/1/"/>
     <id>http://litaoxyz.com/2017/07/12/1/</id>
     <published>2017-07-11T16:04:13.000Z</published>
-    <updated>2017-07-12T11:08:24.728Z</updated>
+    <updated>2017-07-12T15:27:03.577Z</updated>
     
     <content type="html"><![CDATA[<p>菩提本无树，明镜亦非台。<br>本来无一物，何处惹尘埃。</p>
 ]]></content>
@@ -32,6 +32,8 @@
     
     </summary>
     
+      <category term="随笔" scheme="http://litaoxyz.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
     
       <category term="feeling" scheme="http://litaoxyz.com/tags/feeling/"/>
     
@@ -42,7 +44,7 @@
     <link href="http://litaoxyz.com/2017/05/20/basketball/"/>
     <id>http://litaoxyz.com/2017/05/20/basketball/</id>
     <published>2017-05-20T03:23:28.000Z</published>
-    <updated>2017-05-20T03:26:45.075Z</updated>
+    <updated>2017-07-12T15:27:40.860Z</updated>
     
     <content type="html"><![CDATA[<p>大四滚蛋杯篮球赛冠军，我们的三班。</p>
 ]]></content>
@@ -54,17 +56,19 @@
     
     </summary>
     
+      <category term="运动" scheme="http://litaoxyz.com/categories/%E8%BF%90%E5%8A%A8/"/>
+    
     
       <category term="三班" scheme="http://litaoxyz.com/tags/%E4%B8%89%E7%8F%AD/"/>
     
   </entry>
   
   <entry>
-    <title>feelings</title>
+    <title>loving you</title>
     <link href="http://litaoxyz.com/2017/05/17/feelings/"/>
     <id>http://litaoxyz.com/2017/05/17/feelings/</id>
     <published>2017-05-17T03:12:59.000Z</published>
-    <updated>2017-07-12T11:07:06.101Z</updated>
+    <updated>2017-07-12T15:27:21.700Z</updated>
     
     <content type="html"><![CDATA[<p>从今以后，再无生离，只有死别。</p>
 ]]></content>
@@ -76,6 +80,8 @@
     
     </summary>
     
+      <category term="随笔" scheme="http://litaoxyz.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
     
       <category term="feeling" scheme="http://litaoxyz.com/tags/feeling/"/>
     
@@ -86,7 +92,7 @@
     <link href="http://litaoxyz.com/2017/05/14/two-mara/"/>
     <id>http://litaoxyz.com/2017/05/14/two-mara/</id>
     <published>2017-05-14T03:23:49.000Z</published>
-    <updated>2017-05-20T03:26:03.233Z</updated>
+    <updated>2017-07-12T15:28:26.766Z</updated>
     
     <content type="html"><![CDATA[<p>5月13大连马拉松，5月14秦皇岛马拉松</p>
 ]]></content>
@@ -98,6 +104,8 @@
     
     </summary>
     
+      <category term="运动" scheme="http://litaoxyz.com/categories/%E8%BF%90%E5%8A%A8/"/>
+    
     
       <category term="马拉松" scheme="http://litaoxyz.com/tags/%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
     
@@ -108,7 +116,7 @@
     <link href="http://litaoxyz.com/2017/04/05/yerenbang/"/>
     <id>http://litaoxyz.com/2017/04/05/yerenbang/</id>
     <published>2017-04-05T03:22:35.000Z</published>
-    <updated>2017-04-06T02:30:45.239Z</updated>
+    <updated>2017-07-12T15:28:47.139Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://i.imgur.com/iTjQ33N.jpg" alt=""></p>
 <p>​        第一次作为野人帮主领，带队捧河湾一队，14男26女一共40人。</p>
@@ -127,6 +135,8 @@
     
     </summary>
     
+      <category term="运动" scheme="http://litaoxyz.com/categories/%E8%BF%90%E5%8A%A8/"/>
+    
     
       <category term="户外" scheme="http://litaoxyz.com/tags/%E6%88%B7%E5%A4%96/"/>
     
@@ -137,7 +147,7 @@
     <link href="http://litaoxyz.com/2017/03/27/%E5%BD%93%E5%B9%B4%E5%81%A5%E8%BA%AB/"/>
     <id>http://litaoxyz.com/2017/03/27/当年健身/</id>
     <published>2017-03-27T05:32:00.000Z</published>
-    <updated>2017-04-06T02:27:12.540Z</updated>
+    <updated>2017-07-12T15:28:11.719Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/5200879-9807c573db109d0b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="大二健身"><br>大二时的健身照，挺怀念的啊。</p>
 ]]></content>
@@ -147,6 +157,8 @@
       &lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/5200879-9807c573db109d0b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; 
     
     </summary>
+    
+      <category term="运动" scheme="http://litaoxyz.com/categories/%E8%BF%90%E5%8A%A8/"/>
     
     
       <category term="健身" scheme="http://litaoxyz.com/tags/%E5%81%A5%E8%BA%AB/"/>
@@ -158,7 +170,7 @@
     <link href="http://litaoxyz.com/2017/03/27/mara/"/>
     <id>http://litaoxyz.com/2017/03/27/mara/</id>
     <published>2017-03-27T01:47:00.000Z</published>
-    <updated>2017-04-06T02:29:09.086Z</updated>
+    <updated>2017-07-12T15:28:36.603Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://i.imgur.com/6dGHh6r.jpg" alt="厦马"></p>
 <blockquote>
@@ -174,6 +186,8 @@
     
     </summary>
     
+      <category term="运动" scheme="http://litaoxyz.com/categories/%E8%BF%90%E5%8A%A8/"/>
+    
     
       <category term="马拉松" scheme="http://litaoxyz.com/tags/%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
     
@@ -184,7 +198,7 @@
     <link href="http://litaoxyz.com/2017/03/23/first/"/>
     <id>http://litaoxyz.com/2017/03/23/first/</id>
     <published>2017-03-23T14:15:32.000Z</published>
-    <updated>2017-04-06T02:27:27.906Z</updated>
+    <updated>2017-07-12T15:29:41.811Z</updated>
     
     <content type="html"><![CDATA[<p>Hello,world.</p>
 ]]></content>
@@ -195,6 +209,8 @@
 
     
     </summary>
+    
+      <category term="0" scheme="http://litaoxyz.com/categories/0/"/>
     
     
   </entry>
