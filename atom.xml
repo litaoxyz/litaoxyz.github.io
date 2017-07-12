@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://litaoxyz.com/"/>
-  <updated>2017-07-07T16:07:22.929Z</updated>
+  <updated>2017-07-12T11:08:24.728Z</updated>
   <id>http://litaoxyz.com/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>零壹</title>
-    <link href="http://litaoxyz.com/2017/07/08/1/"/>
-    <id>http://litaoxyz.com/2017/07/08/1/</id>
-    <published>2017-07-07T16:04:13.000Z</published>
-    <updated>2017-07-07T16:07:22.929Z</updated>
+    <link href="http://litaoxyz.com/2017/07/12/1/"/>
+    <id>http://litaoxyz.com/2017/07/12/1/</id>
+    <published>2017-07-11T16:04:13.000Z</published>
+    <updated>2017-07-12T11:08:24.728Z</updated>
     
     <content type="html"><![CDATA[<p>菩提本无树，明镜亦非台。<br>本来无一物，何处惹尘埃。</p>
 ]]></content>
@@ -64,7 +64,7 @@
     <link href="http://litaoxyz.com/2017/05/17/feelings/"/>
     <id>http://litaoxyz.com/2017/05/17/feelings/</id>
     <published>2017-05-17T03:12:59.000Z</published>
-    <updated>2017-05-20T03:30:36.045Z</updated>
+    <updated>2017-07-12T11:07:06.101Z</updated>
     
     <content type="html"><![CDATA[<p>从今以后，再无生离，只有死别。</p>
 ]]></content>
@@ -76,6 +76,8 @@
     
     </summary>
     
+    
+      <category term="feeling" scheme="http://litaoxyz.com/tags/feeling/"/>
     
   </entry>
   
