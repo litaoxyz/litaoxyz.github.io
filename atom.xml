@@ -4,9 +4,9 @@
   <subtitle>First Love, Last Rites</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://litaoxyz.com/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2017-07-12T15:27:40.860Z</updated>
-  <id>http://litaoxyz.com/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>金木研</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>basketball</title>
-    <link href="http://litaoxyz.com/2017/05/20/basketball/"/>
-    <id>http://litaoxyz.com/2017/05/20/basketball/</id>
+    <link href="http://yoursite.com/2017/05/20/basketball/"/>
+    <id>http://yoursite.com/2017/05/20/basketball/</id>
     <published>2017-05-20T03:23:28.000Z</published>
     <updated>2017-07-12T15:27:40.860Z</updated>
     
@@ -32,17 +32,17 @@
     
     </summary>
     
-      <category term="运动" scheme="http://litaoxyz.com/categories/%E8%BF%90%E5%8A%A8/"/>
+      <category term="运动" scheme="http://yoursite.com/categories/%E8%BF%90%E5%8A%A8/"/>
     
     
-      <category term="三班" scheme="http://litaoxyz.com/tags/%E4%B8%89%E7%8F%AD/"/>
+      <category term="三班" scheme="http://yoursite.com/tags/%E4%B8%89%E7%8F%AD/"/>
     
   </entry>
   
   <entry>
     <title>背靠背马拉松</title>
-    <link href="http://litaoxyz.com/2017/05/14/two-mara/"/>
-    <id>http://litaoxyz.com/2017/05/14/two-mara/</id>
+    <link href="http://yoursite.com/2017/05/14/two-mara/"/>
+    <id>http://yoursite.com/2017/05/14/two-mara/</id>
     <published>2017-05-14T03:23:49.000Z</published>
     <updated>2017-07-12T15:28:26.766Z</updated>
     
@@ -56,17 +56,17 @@
     
     </summary>
     
-      <category term="运动" scheme="http://litaoxyz.com/categories/%E8%BF%90%E5%8A%A8/"/>
+      <category term="运动" scheme="http://yoursite.com/categories/%E8%BF%90%E5%8A%A8/"/>
     
     
-      <category term="马拉松" scheme="http://litaoxyz.com/tags/%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+      <category term="马拉松" scheme="http://yoursite.com/tags/%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
     
   </entry>
   
   <entry>
     <title>野人帮捧河湾一队</title>
-    <link href="http://litaoxyz.com/2017/04/05/yerenbang/"/>
-    <id>http://litaoxyz.com/2017/04/05/yerenbang/</id>
+    <link href="http://yoursite.com/2017/04/05/yerenbang/"/>
+    <id>http://yoursite.com/2017/04/05/yerenbang/</id>
     <published>2017-04-05T03:22:35.000Z</published>
     <updated>2017-07-12T15:28:47.139Z</updated>
     
@@ -87,17 +87,17 @@
     
     </summary>
     
-      <category term="运动" scheme="http://litaoxyz.com/categories/%E8%BF%90%E5%8A%A8/"/>
+      <category term="运动" scheme="http://yoursite.com/categories/%E8%BF%90%E5%8A%A8/"/>
     
     
-      <category term="户外" scheme="http://litaoxyz.com/tags/%E6%88%B7%E5%A4%96/"/>
+      <category term="户外" scheme="http://yoursite.com/tags/%E6%88%B7%E5%A4%96/"/>
     
   </entry>
   
   <entry>
     <title>大二健身</title>
-    <link href="http://litaoxyz.com/2017/03/27/%E5%BD%93%E5%B9%B4%E5%81%A5%E8%BA%AB/"/>
-    <id>http://litaoxyz.com/2017/03/27/当年健身/</id>
+    <link href="http://yoursite.com/2017/03/27/%E5%BD%93%E5%B9%B4%E5%81%A5%E8%BA%AB/"/>
+    <id>http://yoursite.com/2017/03/27/当年健身/</id>
     <published>2017-03-27T05:32:00.000Z</published>
     <updated>2017-07-12T15:28:11.719Z</updated>
     
@@ -110,17 +110,17 @@
     
     </summary>
     
-      <category term="运动" scheme="http://litaoxyz.com/categories/%E8%BF%90%E5%8A%A8/"/>
+      <category term="运动" scheme="http://yoursite.com/categories/%E8%BF%90%E5%8A%A8/"/>
     
     
-      <category term="健身" scheme="http://litaoxyz.com/tags/%E5%81%A5%E8%BA%AB/"/>
+      <category term="健身" scheme="http://yoursite.com/tags/%E5%81%A5%E8%BA%AB/"/>
     
   </entry>
   
   <entry>
     <title>2017厦门马拉松</title>
-    <link href="http://litaoxyz.com/2017/03/27/mara/"/>
-    <id>http://litaoxyz.com/2017/03/27/mara/</id>
+    <link href="http://yoursite.com/2017/03/27/mara/"/>
+    <id>http://yoursite.com/2017/03/27/mara/</id>
     <published>2017-03-27T01:47:00.000Z</published>
     <updated>2017-07-12T15:28:36.603Z</updated>
     
@@ -138,17 +138,17 @@
     
     </summary>
     
-      <category term="运动" scheme="http://litaoxyz.com/categories/%E8%BF%90%E5%8A%A8/"/>
+      <category term="运动" scheme="http://yoursite.com/categories/%E8%BF%90%E5%8A%A8/"/>
     
     
-      <category term="马拉松" scheme="http://litaoxyz.com/tags/%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+      <category term="马拉松" scheme="http://yoursite.com/tags/%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
     
   </entry>
   
   <entry>
     <title>First</title>
-    <link href="http://litaoxyz.com/2017/03/23/first/"/>
-    <id>http://litaoxyz.com/2017/03/23/first/</id>
+    <link href="http://yoursite.com/2017/03/23/first/"/>
+    <id>http://yoursite.com/2017/03/23/first/</id>
     <published>2017-03-23T14:15:32.000Z</published>
     <updated>2017-07-12T15:29:41.811Z</updated>
     
@@ -162,7 +162,7 @@
     
     </summary>
     
-      <category term="0" scheme="http://litaoxyz.com/categories/0/"/>
+      <category term="0" scheme="http://yoursite.com/categories/0/"/>
     
     
   </entry>
