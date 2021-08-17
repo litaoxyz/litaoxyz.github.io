@@ -1326,6 +1326,7 @@ pre code {
   border: 2px solid #333;
   max-width: 96px;
   padding: 2px;
+  border-radius: 50%;
 }
 .site-author-name {
   color: #f5f5f5;
@@ -2607,7 +2608,7 @@ ul.breadcrumb li:last-child {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #f4aa96;
+  background: #94f57d;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
